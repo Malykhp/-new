@@ -1,6 +1,6 @@
-print (hi)
-one more function
-Hello
-Else
-New
-3254435342532
+print (hi)::
+one more function::
+Hello::
+Else::
+New::
+3254435342532::
