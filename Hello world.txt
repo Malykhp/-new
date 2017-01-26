@@ -1,5 +1,5 @@
-print (hi)
-one more function
-Hello
-Else
-New
+print (hi)::
+one more function::
+Hello::
+Else::
+New::
